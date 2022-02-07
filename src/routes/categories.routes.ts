@@ -1,4 +1,4 @@
-import { request, Router } from "express";
+import { Router } from "express";
 import multer from "multer";
 
 import { CreateCategoryController } from "../modules/cars/usecases/CreateCategory/CreateCategoryController";
